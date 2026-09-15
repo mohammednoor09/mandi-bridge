@@ -1,0 +1,5 @@
+{
+  "name": "MandiBridge",
+  "description": "A local crop price and market finder for farmers to compare mandi prices and maximize income.",
+  "requestFramePermissions": ["geolocation", "microphone"]
+}
